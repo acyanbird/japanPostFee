@@ -30,6 +30,7 @@
 #### 船运
 
 300x+1300 1 <= x < 10  
-250x+1800 10 <= x <= 30
-
+250x+1800 10 <= x <= 30  
+直观看到起始的0 - 2 kg 特供版本
+![image](https://github.com/acyanbird/japanPostFee/blob/main/0-2.png)
 ![image](https://github.com/acyanbird/japanPostFee/blob/main/japanPostFee.png)
